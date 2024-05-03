@@ -31,7 +31,7 @@ Loophole know the username and password of the admin panel of the network Mikrot
 -------------------------------------
 
 ### _☣ Available command line options_
-[`READ MikrotikSploi WIKI`](https://github.com/0x802/MikrotikSploit/wiki)
+[`READ MikrotikSploi`](https://www.youtube.com/channel/UCKzyHackSJjAilo0rGyPJmQ?sub_confirmation=1)
 
     usage: MikrotikSploit [options]
     
@@ -49,10 +49,10 @@ Loophole know the username and password of the admin panel of the network Mikrot
 MikrotikSploi in DOCKER !!.
 
 ```bash
-$ git clone https://github.com/0x802/MikrotikSploit.git
-$ cd MikrotikSploit
+$ git clone https://github.com/kdsmedia/mikrotik.git
+$ cd mikrotik
 $ python3 -m pip install -r requirements.txt
-$ python3 MikrotikSploit.py
+$ python3 mikrotik.py
 ```
 
 -------------------------------------
@@ -62,10 +62,10 @@ $ python3 MikrotikSploit.py
 ```BASH
 $ pkg update
 $ pkg install -y git
-$ git clone https://github.com/0x802/MikrotikSploit.git
-$ cd MikrotikSploit
+$ git clone https://github.com/kdsmedia/mikrotik.git
+$ cd mikrotik
 $ python3 -m pip install -r requirements.txt
-$ python3 MikrotikSploit.py
+$ python3 mikrotik.py
 ```
 
 
