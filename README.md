@@ -71,7 +71,7 @@ $ python3 mikrotik.py
 
 ### _☣ Install MikrotikSploit in Windows_
 
-- [click here](https://github.com/0x802/MikrotikSploit/archive/master.zip) to download MikrotikSploit
+- [click here](https://github.com/kdsmedia/mikrotik/archive/refs/heads/main.zip) to download **mikrotik script**
 - download and install python3
 - unzip **mikrotik.zip** in ***c:/***
 - open the command prompt **cmd**.
