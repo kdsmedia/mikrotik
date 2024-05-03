@@ -73,12 +73,12 @@ $ python3 mikrotik.py
 
 - [click here](https://github.com/0x802/MikrotikSploit/archive/master.zip) to download MikrotikSploit
 - download and install python3
-- unzip **MikrotikSploit-master.zip** in ***c:/***
+- unzip **mikrotik.zip** in ***c:/***
 - open the command prompt **cmd**.
 ```
-> cd c:/MikrotikSploit-master
+> cd c:/mikrotik
 > py -m pip install -r requirements.txt
-> py MikrotikSploit.py
+> py mikrotik.py
 ```
 
 -------------------------------------
