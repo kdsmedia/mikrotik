@@ -5,11 +5,11 @@
 # * Version:
 #   v0.1
 # * Date:
-#   28 - 08 - 2019 { Wed 28 Aug 2019 }
-# * Facebook:
-#   http://fb.com/mhm.hack
+#   28 - 08 - 2024 { Wed 28 Aug 2024 }
+# * Telegram:
+#   http://t.me/maxwowchannel
 # * Author:
-#   Hathem Ahmed
+#   ALTO MEDIA
 # *******************************************************************
 
 import re
@@ -50,8 +50,8 @@ def timeS():
 def Inf():
 
     print(""" 
-Name        : Hathem Ahmed (MHM)
-Facebook    : https://FB.COM/mhm.hack
+Name        : ALTO MEDIA
+Telegram    : https://t.me/maxwowchannel
 Github      : https://github.com/HathemAhmed
 Version     : v0.1
 info script : this script for Hack Mikrotik Router """)
@@ -203,7 +203,7 @@ class LOOP:
                     ASCY = input("[ {R}!{N} ] Are you sure For Remove MikrotikSploit and UPDATE [Y/N]: ")
 
                     if ASCY.upper()[0] == "Y":
-                        UB = os.system('cd ../&& rm -r MikrotikSploit && git clone https://github.com/hathemahmed/MikrotikSploit.git')
+                        UB = os.system('cd ../&& rm -r mikrotik && git clone https://github.com/kdsmedia/mikrotik.git')
                         if UB != 0x00:
                             print("[{R}!{N}] Error For UPDATE")
                             exit()
