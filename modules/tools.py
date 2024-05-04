@@ -6,7 +6,7 @@
 #   v0.1
 # * Date:
 #   28 - 08 - 2024 { Wed 28 Aug 2024 }
-# * Facebook:
+# * Telegram:
 #   http://t.me/maxwowchannel
 # * Author:
 #   ALTO MEDIA
