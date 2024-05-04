@@ -5,11 +5,11 @@
 # * Version:
 #   v1.1
 # * Date:
-#   19 - 08 - 2019 { Mon 19 Aug 2019 }
-# * Facebook:
-#   http://fb.com/mhm.hack
+#   19 - 08 - 2024 { Mon 19 Aug 2024 }
+# * Telegram:
+#   http://t.me/maxwowchannel
 # * Author:
-#   Hathem Ahmed
+#   ALTO MEDIA
 # *******************************************************************
 
 import os
