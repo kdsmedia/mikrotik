@@ -5,11 +5,11 @@
 # * Version:
 #   v0.1
 # * Date:
-#   28 - 08 - 2019 { Wed 28 Aug 2019 }
-# * Facebook:
-#   http://fb.com/mhm.hack
+#   28 - 08 - 2024 { Wed 28 Aug 2024 }
+# * Telegram:
+#   http://t.me/maxwowchannel
 # * Author:
-#   Hathem Ahmed
+#   ALTO MEDIA
 # *******************************************************************
 
 import sys
@@ -35,7 +35,7 @@ class RunScript(object):
                              |          {N}
             {B}6B 53 70 6C 6F 69 74 {N}
                         {F2}Version: 0.1{N}
-    {T}@ Author => http://FB.com/mhm.hack
+    {T}@ Author => http://t.me/maxwowchannel
 
         """, 1)
 
@@ -56,7 +56,7 @@ class RunScript(object):
                              |          {N}
             {B}6B 53 70 6C 6F 69 74 {N}
                         {F2}Version: 0.1{N}
-    {T}@ Author => http://FB.com/mhm.hack{N}
+    {T}@ Author => http://t.me/maxwowchannel{N}
 
 
 Use Script:
