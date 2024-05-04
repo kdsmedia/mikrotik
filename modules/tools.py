@@ -5,11 +5,11 @@
 # * Version:
 #   v0.1
 # * Date:
-#   28 - 08 - 2019 { Wed 28 Aug 2019 }
+#   28 - 08 - 2024 { Wed 28 Aug 2024 }
 # * Facebook:
-#   http://fb.com/mhm.hack
+#   http://t.me/maxwowchannel
 # * Author:
-#   Hathem Ahmed
+#   ALTO MEDIA
 # *******************************************************************
 
 from color import *
